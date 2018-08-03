@@ -1,0 +1,9 @@
+.progress {
+    width: 200px;
+    height: 30px
+}
+.current-progress {
+    width: 0;
+    height: 30px;
+    background: darkblue;
+}
